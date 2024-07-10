@@ -1,4 +1,3 @@
-# Etapa 1: Construcción
 FROM python:3.9-slim as build
 
 WORKDIR /app
